@@ -1,0 +1,15 @@
+C:\Proyectos C#\OpenBootCamp\OpenBootCamp\bin\Debug\net6.0\OpenBootCamp.exe
+C:\Proyectos C#\OpenBootCamp\OpenBootCamp\bin\Debug\net6.0\OpenBootCamp.deps.json
+C:\Proyectos C#\OpenBootCamp\OpenBootCamp\bin\Debug\net6.0\OpenBootCamp.runtimeconfig.json
+C:\Proyectos C#\OpenBootCamp\OpenBootCamp\bin\Debug\net6.0\OpenBootCamp.dll
+C:\Proyectos C#\OpenBootCamp\OpenBootCamp\bin\Debug\net6.0\OpenBootCamp.pdb
+C:\Proyectos C#\OpenBootCamp\OpenBootCamp\obj\Debug\net6.0\OpenBootCamp.csproj.AssemblyReference.cache
+C:\Proyectos C#\OpenBootCamp\OpenBootCamp\obj\Debug\net6.0\OpenBootCamp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos C#\OpenBootCamp\OpenBootCamp\obj\Debug\net6.0\OpenBootCamp.AssemblyInfoInputs.cache
+C:\Proyectos C#\OpenBootCamp\OpenBootCamp\obj\Debug\net6.0\OpenBootCamp.AssemblyInfo.cs
+C:\Proyectos C#\OpenBootCamp\OpenBootCamp\obj\Debug\net6.0\OpenBootCamp.csproj.CoreCompileInputs.cache
+C:\Proyectos C#\OpenBootCamp\OpenBootCamp\obj\Debug\net6.0\OpenBootCamp.dll
+C:\Proyectos C#\OpenBootCamp\OpenBootCamp\obj\Debug\net6.0\refint\OpenBootCamp.dll
+C:\Proyectos C#\OpenBootCamp\OpenBootCamp\obj\Debug\net6.0\OpenBootCamp.pdb
+C:\Proyectos C#\OpenBootCamp\OpenBootCamp\obj\Debug\net6.0\OpenBootCamp.genruntimeconfig.cache
+C:\Proyectos C#\OpenBootCamp\OpenBootCamp\obj\Debug\net6.0\ref\OpenBootCamp.dll
